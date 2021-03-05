@@ -1,6 +1,6 @@
 import requests,json
 def res():
- url='https://www.baidu.com'
+ # url='https://www.baidu.com'
  response=requests.get(url=url)
 #     # print(response.text)
 #     # return response
